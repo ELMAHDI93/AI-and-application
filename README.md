@@ -29,6 +29,7 @@ The notebook demonstrates:
   - `seaborn`
 
 📈 Results
+
 The notebook showcases key insights derived from applying AI techniques to real-world problems, including:
 
 Improved model performance through tuning
@@ -38,6 +39,7 @@ Data-driven decision-making
 Visual interpretation of model behavior
 
 🧠 Applications
+
 The approaches illustrated in the notebook can be applied to:
 
 Financial forecasting
