@@ -2,10 +2,8 @@
 
 ## 📌 Project Info
 
-- **Author:** El Mahdi El Alj (GH1033521)  
-- **Course:** Big Data Analytics (M508)  
-- **Assignment:** Final Individual Assignment  
-
+- **Author:** El Mahdi El Alj**
+- ** Big Data Analytics **
 ---
 
 ## 📈 Business Problem
